@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onyx-storm&show_icons=true&locale=en" alt="onyx-storm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onyx-storm&" alt="onyx-storm" /></p>
+
