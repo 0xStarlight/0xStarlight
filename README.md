@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Offensive Security for OSCP**
 
-- 📝 I regularly write articles on [https://onyx-storm.github.io/](https://onyx-storm.github.io/)
+- 📝 I regularly write articles on [https:/0xStarlight.github.io/](https://0xStarlight.github.io/)
 
 - 📫 How to reach me **bhaskarpal347@gmail.com**
 
