@@ -24,7 +24,5 @@
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 # Github Stats
-![0xStarlight github stats](https://github-readme-stats.vercel.app/api?username=0xStarlight&count_private=true&theme=tokyonight)
-
-![0xStarlight github top_languages](https://github-readme-stats.vercel.app/api/top-langs?username=0xStarlight&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![0xStarlight github stats](https://github-readme-stats.vercel.app/api?username=0xStarlight&count_private=true&theme=tokyonight)  ![0xStarlight github top_languages](https://github-readme-stats.vercel.app/api/top-langs?username=0xStarlight&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
