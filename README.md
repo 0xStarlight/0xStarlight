@@ -1,22 +1,30 @@
-<h1 align="center">Hi 👋, I'm Bhaskar Pal</h1>
-<h3 align="center">A passionate Cybersecurity Enthusiast | eJPT certified | Game Dev 🎮 | Programmer and CTF player 💻</h3>
+<h1 align="center">Hi 👋, I'm Bhaskar Pal, aka 0xStarlight</h1>
+<h3 align="center">A passionate cybersecurity enthusiast and programmer looking to render the best of my knowledge and skills</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=0xStarlight" alt="0xStarlight" /> </p>
 
+![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
+
+# Whoami
 - 🌱 I’m currently learning **Offensive Security for OSCP**
-
-- 📝 I regularly write articles on [https:/0xStarlight.github.io/](https://0xStarlight.github.io/)
-
+- 🐱‍💻 I received my eLearnSecurity Junior Penetration Tester(eJPT) certification in 2021
+- 📝 I'm currently publishing blogs about Active Directory Attacking and Defending on my blog
+- 📝 I regularly write articles about Cybersecurity, Red Teaming, and CTF writeup's on [https:/0xStarlight.github.io/](https://0xStarlight.github.io/)
 - 📫 How to reach me **bhaskarpal347@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bhaskarpal__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhaskarpal__" height="30" width="40" /></a>
-<a href="https://discord.com/users/642910424462786567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="642910424462786567" height="30" width="40" /></a>
-</p>
+![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
+# Connect with me
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Bhaskarpal__?color=blue&label=follow%20%40Bhaskarpal__&logo=twitter&style=for-the-badge">
 
+![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xStarlight&show_icons=true&locale=en&layout=compact" alt="onyx-storm" /></p>
+# Profiles
+<img src="https://tryhackme-badges.s3.amazonaws.com/biscuit.png" alt="TryHackMe"> <img src="https://www.hackthebox.eu/badge/image/244565" alt="HackTheBox">
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=0xStarlight&show_icons=true&locale=en" alt="onyx-storm" /></p>
+![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
+# Github Stats
+![0xStarlight github stats](https://github-readme-stats.vercel.app/api?username=0xStarlight&count_private=true&theme=tokyonight)
+
+![0xStarlight github top_languages](https://github-readme-stats.vercel.app/api/top-langs?username=0xStarlight&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
