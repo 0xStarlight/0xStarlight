@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="intro.gif" alt="animated" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Bhaskar Pal, aka 0xStarlight</h1>
 <h3 align="center">A passionate cybersecurity enthusiast and programmer looking to render the best of my knowledge and skills</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0xStarlight" alt="0xStarlight" /> </p>
