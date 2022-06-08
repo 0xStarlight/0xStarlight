@@ -18,6 +18,7 @@
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 # Certifications
+- ⚡ Certified Red Team Pentester(CRTP) in 2022
 - ⚡ eLearnSecurity Junior Penetration Tester(eJPT) in 2021
 - ⚡ Offensive Pentesting Path from TryHackMe
 - ⚡ CompTIA Pentest+ Learning Path from TryHackMe
@@ -28,6 +29,7 @@
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 # Achievements
+- ⚡ Achieved the rank of 43/7024 teams at HackTheBox Cyber Apocalypse 2022 CTF competition
 - ⚡ Achieved the rank of 4579 at Google's 2022 Hashcode competition
 - ⚡ Achieved the rank of 82/648 teams at DEF CON 29 Red Team 2021 CTF competition
 - ⚡ Achieved the rank of 300/4740 teams at HackTheBox Cyber Apocalypse 2021 CTF competition 
