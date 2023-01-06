@@ -10,7 +10,7 @@
 
 # Whoami
 - ⚡ I'm a passionate cybersecurity enthusiast and programmer looking to render the best of my knowledge and skills
-- ⚡ I’m currently learning **Offensive Security for OSCP**
+- ⚡ I’m currently learning **Offensive Security for OSEP** and **CRTE**
 - ⚡ I'm currently publishing blogs about Active Directory Attacking and Defending on my blog
 - ⚡ I regularly write articles about Cybersecurity, Red Teaming, and CTF writeup's on [https:/0xStarlight.github.io/](https://0xStarlight.github.io/)
 - ⚡ How to reach me **bhaskarpal347@gmail.com**
@@ -18,17 +18,26 @@
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 # Certifications
+- ⚡ HackTheBox Prolabs - RastaLabs in 2022
+- ⚡ Certified Red Team Operator(CRTO) in 2022
+- ⚡ HackTheBox Prolabs - OffShore in 2022
+- ⚡ Active Defence Cyber Deception - ANTISYPHON in 2022
+- ⚡ Practical Malware Analysis & Triage - TCMSEM in 2022
 - ⚡ Certified Red Team Pentester(CRTP) in 2022
 - ⚡ eLearnSecurity Junior Penetration Tester(eJPT) in 2021
-- ⚡ Offensive Pentesting Path from TryHackMe
-- ⚡ CompTIA Pentest+ Learning Path from TryHackMe
+- ⚡ Offensive Pentesting Path from TryHackMe in 2021
+- ⚡ CompTIA Pentest+ Learning Path from TryHackMe in 2021
 - ⚡ Advent-of-Cyber-2021 from TryHackMe
-- ⚡ PNPT course Path from TCMSEC 
+- ⚡ PNPT course Path from TCMSEC in 2021
 
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 # Achievements
+- ⚡ Achieved HackTheBox HallOfFame top 50 and top 2 in India (2022)
+- ⚡ Achieved the rank of 13 at DEADFACE 2022 CTF competition with Activate Windows
+- ⚡ Achieved the rank of 32 at Synack 2022 CTF competition with Activate Windows
+- ⚡ Achieved the rank of 4 at Standoff365 2022 CTF competition with Activate Windows
 - ⚡ Achieved the rank of 43/7024 teams at HackTheBox Cyber Apocalypse 2022 CTF competition
 - ⚡ Achieved the rank of 4579 at Google's 2022 Hashcode competition
 - ⚡ Achieved the rank of 82/648 teams at DEF CON 29 Red Team 2021 CTF competition
