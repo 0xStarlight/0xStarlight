@@ -12,12 +12,15 @@
 - ⚡ I'm a passionate cybersecurity enthusiast and programmer looking to render the best of my knowledge and skills
 - ⚡ I’m currently learning **Offensive Security for OSEP** and preparing for **CRTE**
 - ⚡ I'm currently publishing blogs about Active Directory Attacking and Defending on my blog
-- ⚡ I regularly write articles about Cybersecurity, Red Teaming, and CTF writeup's on [https:/0xStarlight.github.io/](https://0xStarlight.github.io/)
+- ⚡ I regularly write articles about Cybersecurity, Red Teaming, and CTF writeups on [https:/0xStarlight.github.io/](https://0xStarlight.github.io/)
 - ⚡ How to reach me **bhaskarpal347@gmail.com**
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 # Certifications
+- ⚡ Darkweb Operations - Security Blue Team in 2023
+- ⚡ Threat Model - Antisyphon in 2023
+- ⚡ Enterprise Forensics and Response - Antisyphon in 2023
 - ⚡ HackTheBox Prolabs - RastaLabs in 2022
 - ⚡ Certified Red Team Operator(CRTO) in 2022
 - ⚡ HackTheBox Prolabs - OffShore in 2022
@@ -34,6 +37,8 @@
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 # Achievements
+- ⚡ Achieved the rank of 141/6483 teams at HackTheBox Cyber Apocalypse 2023 CTF competition with Activate Windows.
+- ⚡ Achieved the rank of the top 20 teams at Standoff365 2023 CTF competition with Activate Windows.
 - ⚡ Achieved HackTheBox HallOfFame top 50 and top 2 in India (2022)
 - ⚡ Achieved the rank of 13 at DEADFACE 2022 CTF competition with Activate Windows
 - ⚡ Achieved the rank of 32 at Synack 2022 CTF competition with Activate Windows
