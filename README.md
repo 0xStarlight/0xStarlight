@@ -10,7 +10,7 @@
 
 # Whoami
 - ⚡ I'm a passionate cybersecurity enthusiast and programmer looking to render the best of my knowledge and skills
-- ⚡ I’m currently learning **Offensive Security for OSEP** and preparing for **CRTE**
+- ⚡ I’m currently learning **Offensive Security for OSEP** and preparing for **CRTL**
 - ⚡ I'm currently publishing blogs about Active Directory Attacking and Defending on my blog
 - ⚡ I regularly write articles about Cybersecurity, Red Teaming, and CTF writeups on [https:/0xStarlight.github.io/](https://0xStarlight.github.io/)
 - ⚡ How to reach me **bhaskarpal347@gmail.com**
@@ -18,6 +18,7 @@
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 # Certifications
+- ⚡ Certified Red Team Expert(CRTE) in 2023
 - ⚡ Darkweb Operations - Security Blue Team in 2023
 - ⚡ Threat Model - Antisyphon in 2023
 - ⚡ Enterprise Forensics and Response - Antisyphon in 2023
@@ -26,7 +27,7 @@
 - ⚡ HackTheBox Prolabs - OffShore in 2022
 - ⚡ Active Defence Cyber Deception - ANTISYPHON in 2022
 - ⚡ Practical Malware Analysis & Triage - TCMSEC in 2022
-- ⚡ Certified Red Team Pentester(CRTP) in 2022
+- ⚡ Certified Red Team Professional(CRTP) in 2022
 - ⚡ eLearnSecurity Junior Penetration Tester(eJPT) in 2021
 - ⚡ Offensive Pentesting Path from TryHackMe in 2021
 - ⚡ CompTIA Pentest+ Learning Path from TryHackMe in 2021
