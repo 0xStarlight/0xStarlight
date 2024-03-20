@@ -59,7 +59,7 @@
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 # Profiles
-<img src="https://tryhackme-badges.s3.amazonaws.com/biscuit.png" alt="TryHackMe"> <img src="https://www.hackthebox.eu/badge/image/244565" alt="HackTheBox">
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xStarlight.png" alt="TryHackMe"> <img src="https://www.hackthebox.eu/badge/image/244565" alt="HackTheBox">
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
