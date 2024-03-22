@@ -10,7 +10,7 @@
 
 # Whoami
 - ⚡ I'm a passionate cybersecurity enthusiast and programmer looking to render the best of my knowledge and skills
-- ⚡ I’m currently learning **Offensive Security for OSEP** and preparing for **CRTL**
+- ⚡ I’m currently learning **Offensive Security for OSEP** and preparing for **OSED**
 - ⚡ I'm currently publishing blogs about Active Directory Attacking and Defending on my blog
 - ⚡ I regularly write articles about Cybersecurity, Red Teaming, and CTF writeups on [https:/0xStarlight.github.io/](https://0xStarlight.github.io/)
 - ⚡ How to reach me **bhaskarpal347@gmail.com**
